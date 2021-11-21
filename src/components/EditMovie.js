@@ -181,7 +181,7 @@ componentDidMount() {
                                     name="mpaa_rating">
                                     <option value="G">G</option>
                                     <option value="PG">PG</option>
-                                    <option value="PG14">PG14</option>
+                                    <option value="PG13">PG-13</option>
                                     <option value="R">R</option>
                             </select>
                             </div>
